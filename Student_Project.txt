@@ -1,0 +1,8 @@
+My Student Project
+
+Name:
+Class:
+Course: Computer Software Fundamentals
+
+This is my first project using GitHub.
+
